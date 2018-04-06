@@ -27,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3. Classification K Nearest Neighbors.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="3. Classification K Nearest Neighbors.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/3. Classification K Nearest Neighbors.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="285">
+              <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -39,11 +39,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3. (1) Euclidean Distance.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3. (1) Euclidean Distance.py">
+      <file leaf-file-name="3.2 Euclidean Distance.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.2 Euclidean Distance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="478">
+              <caret line="31" column="52" lean-forward="false" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.3 Applying our K Nearest Neighbors Algorithm.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.3 Applying our K Nearest Neighbors Algorithm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -113,16 +125,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="math.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/898064221/math.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="78" column="4" lean-forward="false" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -165,17 +167,19 @@
         <option value="$PROJECT_DIR$/1. Regression.py" />
         <option value="$PROJECT_DIR$/breast-cancer-wisconsin.data.txt" />
         <option value="$PROJECT_DIR$/breast-cancer-wisconsin.data" />
-        <option value="$PROJECT_DIR$/3. Classification K Nearest Neighbors.py" />
         <option value="$PROJECT_DIR$/3(1) Euclidean Distance.py" />
         <option value="$PROJECT_DIR$/3. (1) Euclidean Distance.py" />
+        <option value="$PROJECT_DIR$/3.2 Euclidean Distance.py" />
+        <option value="$PROJECT_DIR$/3.3 Applying our K Nearest Neighbors Algorithm.py" />
+        <option value="$PROJECT_DIR$/3. Classification K Nearest Neighbors.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1015" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -215,45 +219,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pancake\PycharmProjects\machine_learning" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\pancake\PycharmProjects\machine_learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3. (1) Euclidean Distance">
-    <configuration default="false" name="1. Regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="machine_learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. Regression.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="2. Best Fit Slopt" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="machine_learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Best Fit Slopt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.3. Classification K Nearest Neighbors">
     <configuration default="false" name="3. Classification K Nearest Neighbors" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,7 +256,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="machine_learning" />
-      <option name="SCRIPT_NAME" value="C:\Users\pancake\PycharmProjects\machine_learning\3. (1) Euclidean Distance.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\pancake\PycharmProjects\machine_learning\3.2 Euclidean Distance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -300,7 +273,41 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="machine_learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. (1) Euclidean Distance.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\pancake\PycharmProjects\machine_learning\3.2 Euclidean Distance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="3.3 Applying our K Nearest Neighbors Algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machine_learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.3 Applying our K Nearest Neighbors Algorithm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="3.2 Euclidean Distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machine_learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.2 Euclidean Distance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -440,19 +447,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.1. Regression" />
-      <item index="1" class="java.lang.String" itemvalue="Python.2. Best Fit Slopt" />
-      <item index="2" class="java.lang.String" itemvalue="Python.3. Classification K Nearest Neighbors" />
-      <item index="3" class="java.lang.String" itemvalue="Python.3(1) Euclidean Distance" />
-      <item index="4" class="java.lang.String" itemvalue="Python.3. (1) Euclidean Distance" />
+      <item index="0" class="java.lang.String" itemvalue="Python.3. Classification K Nearest Neighbors" />
+      <item index="1" class="java.lang.String" itemvalue="Python.3(1) Euclidean Distance" />
+      <item index="2" class="java.lang.String" itemvalue="Python.3. (1) Euclidean Distance" />
+      <item index="3" class="java.lang.String" itemvalue="Python.3.3 Applying our K Nearest Neighbors Algorithm" />
+      <item index="4" class="java.lang.String" itemvalue="Python.3.2 Euclidean Distance" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.3. (1) Euclidean Distance" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3(1) Euclidean Distance" />
-        <item index="2" class="java.lang.String" itemvalue="Python.3. Classification K Nearest Neighbors" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1. Regression" />
-        <item index="4" class="java.lang.String" itemvalue="Python.2. Best Fit Slopt" />
+        <item index="0" class="java.lang.String" itemvalue="Python.3. Classification K Nearest Neighbors" />
+        <item index="1" class="java.lang.String" itemvalue="Python.3.3 Applying our K Nearest Neighbors Algorithm" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3.2 Euclidean Distance" />
+        <item index="3" class="java.lang.String" itemvalue="Python.3. (1) Euclidean Distance" />
+        <item index="4" class="java.lang.String" itemvalue="Python.3(1) Euclidean Distance" />
       </list>
     </recent_temporary>
   </component>
@@ -479,7 +486,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1015" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16649105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -487,9 +494,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40068105" sideWeight="0.50421494" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291714" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38244852" sideWeight="0.49578503" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39909297" sideWeight="0.49578503" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34353742" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -517,7 +524,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xcoin_api_client.py" />
     <entry file="file://$PROJECT_DIR$/hojae.csv" />
     <entry file="file://$PROJECT_DIR$/temp.py" />
     <entry file="file://$PROJECT_DIR$/test.py" />
@@ -675,14 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/breast-cancer-wisconsin.data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="114" lean-forward="false" selection-start-line="0" selection-start-column="114" selection-end-line="0" selection-end-column="114" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1. Regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1121">
@@ -703,22 +701,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Classification K Nearest Neighbors.py">
+    <entry file="file://$PROJECT_DIR$/3.2 Euclidean Distance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="478">
+          <caret line="31" column="52" lean-forward="false" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="53" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. (1) Euclidean Distance.py">
+    <entry file="file://$PROJECT_DIR$/breast-cancer-wisconsin.data">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="114" lean-forward="false" selection-start-line="0" selection-start-column="114" selection-end-line="0" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.3 Applying our K Nearest Neighbors Algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Classification K Nearest Neighbors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
