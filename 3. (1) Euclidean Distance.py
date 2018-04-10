@@ -17,7 +17,15 @@ plt.show()
 def k_nearest_neighbors(data, predict, k=3):
     if len(data) >= k:
         warnings.warn('K is set to a value less then total voting groups!')
-    knnalgos
+    distance = []
+    for group in data:
+        for feature in data[group]:
+            euclidean_distance = np.linalg.norm(np.array(features) - np.array(predict))
+            distance.append(([euclidean_distance, group]))
+    
+    votes = [i[1] for i in sorted(distance)[:k]]
+
+
     return vote_result
 '''
 x = [1,3]
